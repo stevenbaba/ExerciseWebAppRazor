@@ -1,0 +1,1 @@
+{"version":3,"sources":["/client/css/index.scss"],"names":[],"mappings":"AAAA;EACI,aAAY,EACf;;AAED;EACI,iBAAgB;EAChB,UAAS;EACT,WAAU,EACb","file":"ipack.css","sourcesContent":["html {\r\n    height: 100%;\r\n}\r\n\r\nbody {\r\n    min-height: 100%;\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n"],"sourceRoot":"instapack://"}

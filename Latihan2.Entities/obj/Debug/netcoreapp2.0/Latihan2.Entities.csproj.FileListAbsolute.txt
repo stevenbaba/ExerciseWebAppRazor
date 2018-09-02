@@ -1,0 +1,11 @@
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\bin\Debug\netcoreapp2.0\Latihan2.Entities.deps.json
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\bin\Debug\netcoreapp2.0\Latihan2.Entities.dll
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\bin\Debug\netcoreapp2.0\Latihan2.Entities.pdb
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\obj\Debug\netcoreapp2.0\Latihan2.Entities.csprojAssemblyReference.cache
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\obj\Debug\netcoreapp2.0\Latihan2.Entities.csproj.CoreCompileInputs.cache
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\obj\Debug\netcoreapp2.0\Latihan2.Entities.AssemblyInfoInputs.cache
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\obj\Debug\netcoreapp2.0\Latihan2.Entities.AssemblyInfo.cs
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\obj\Debug\netcoreapp2.0\Latihan2.Entities.dll
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\obj\Debug\netcoreapp2.0\Latihan2.Entities.pdb
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\bin\Debug\netcoreapp2.0\Latihan2.Entities.runtimeconfig.json
+E:\programming\webapp\sendiri\latihan\Latihan2\Latihan2.Entities\bin\Debug\netcoreapp2.0\Latihan2.Entities.runtimeconfig.dev.json
